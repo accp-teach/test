@@ -1,0 +1,9 @@
+1.九大内置对象
+	out、request、response、session、application、config、page、exception、pageContext
+2.6大页面元素
+	html、指令、小脚本、表达式、声明、注释
+3.四大作用域对象
+	page对应的内置对象是pageContext
+	request对应的内置对象是request
+	session对应的内置对象是session
+	application对应的内置对象是application
